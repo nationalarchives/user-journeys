@@ -1,5 +1,8 @@
 main {
-    padding: 20px;
+    padding: 180px 20px;
+}
+nav h1 a {
+    text-align: center !important;
 }
 .jumbotron {
     padding: 10px;
@@ -37,7 +40,9 @@ main {
     font-size: 1.3rem;
 }
 h1 {
-    margin-bottom: 1em;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center !important;
 }
 h2 {
     margin-bottom: 0.5em;
