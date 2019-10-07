@@ -19,7 +19,7 @@
 .inner {
     padding: 0 2em;
     margin: 3em 0;
-    border-left: 12px double rgba(32,178,170, 0.15);
+    border-left: 10px dashed rgba(32,178,170, 0.2);
 }
 .jumbotron {
     margin-top: -50px;
